@@ -1,6 +1,6 @@
 # CS50's projects made public
 
-## Problem Set 0
+## Problems Set 0
 ### Name: 
 Me
 ### Goal: 
@@ -10,7 +10,7 @@ Asks for a name and prints out "Hello, name"
 
 ---
 
-## Problem Set 1
+## Problems Set 1
 ### Name:
 Mario
 ### Goal:
@@ -20,7 +20,7 @@ Prompts the user for a number between 0 and 8 and prints out a Mario-style pyram
 
 ___
 
-## Problem Set 1
+## Problems Set 1
 ### Name:
 Credit
 ### Goal:
@@ -30,7 +30,7 @@ Prompt the user for a Credit Card number and check its validity
 
 ---
 
-## Problem Set 2
+## Problems Set 2
 ### Name:
 Scrabble
 ### Goal:
@@ -40,7 +40,7 @@ Prompt two players for a word, then calculates for each words their values using
 
 ---
 
-## Problem Set 2
+## Problems Set 2
 ### Name:
 Readability
 ### Goal:
@@ -50,7 +50,7 @@ The user is prompted to enter a text and the script evaluates what's its Grade l
 
 ---
 
-## Problem Set 2
+## Problems Set 2
 ### Name:
 Substitution
 ### Goal:
