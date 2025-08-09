@@ -57,3 +57,23 @@ Substitution
 The user starts the script with a cipherization key and is then prompted for a text so the script can cipher it and return it
 ### Difficulty
 6/10. It was my first time working with arrays in C so I struggled a little bit at first but managed to handle the validations perfectly fine
+
+---
+
+## Problem Set 3
+### Name:
+Plurality
+### Goal
+Prompt the user for a list of candidates and a number of voters. Proceeds to a simple sort method to print out the winner/winners
+### Difficulty
+4/10. This problem was quite simple and only required to find the highest value and print all the candidates that had this same value
+
+---
+
+## Problem Set 3
+### Name:
+Tideman
+### Goal
+Prompt the user for a list of candidates and a number of voters. Proceeds to a ranking vote per candidates. Uses the tideman method to sort out by rank strength, locking the edges and avoiding cycles
+### Difficulty
+8/10. This is one of the most difficult problem I had to solve. I had to understand how to iterate through a 2D matrix Array and locking pairs while avoiding cycles
